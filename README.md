@@ -17,3 +17,4 @@ In this repository, you'll find 50 different projects, each with its own folder.
 ### You can view 50 projects follow the links below
 
 1. [Expanding cards](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Expanding_cards/)
+2. [Progress steps](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Progress_steps/)
