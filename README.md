@@ -18,3 +18,6 @@ In this repository, you'll find 50 different projects, each with its own folder.
 
 1. [Expanding cards](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Expanding_cards/)
 2. [Progress steps](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Progress_steps/)
+3. [Rotating navigation](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Rotating_navigation/)
+4. [Hidden search](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Hidden_Search_Widget/)
+5. [Blurry loading](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Blurry_loading/)
