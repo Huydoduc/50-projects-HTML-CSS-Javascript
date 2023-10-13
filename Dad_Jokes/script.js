@@ -18,6 +18,17 @@ async function generateJoke() {
   const data = await res.json();
 
   jokeEl.innerHTML = data.joke;
+  getRandomColor();
+}
+
+// JavaScript code to generate a random background color
+function getRandomColor() {
+  let letters = "0123456789ABCDEF";
+  let color = "#";
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  document.body.style.backgroundColor = color;
 }
 
 // USING .then()
