@@ -25,7 +25,7 @@ In this repository, you'll find 50 different projects, each with its own folder.
 7. [Split landing page](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Split_langding_page/)
 8. [Form wave](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Form_wave/)
 9. [Sound board](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Sound_board/)
-10. [Dad jokes](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Dad_jokes/)
+10. [Dad jokes](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Dad_Jokes/)
 11. [Event keyCodes](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Event_keyCodes/)
 12. [FAQ Collaspe](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/FAQ_Collaspe/)
 13. [Random choice picker](https://huydoduc.github.io/50-projects-HTML-CSS-Javascript/Random_choice_picker/)
